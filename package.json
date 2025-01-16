@@ -4,6 +4,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "sass": "^1.80.3"
+    "sass": "^1.83.4",
+    "vite": "latest"
   }
 }
